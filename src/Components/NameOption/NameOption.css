@@ -1,0 +1,12 @@
+.input-class
+{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    height: 10vh;
+    width: 30vw;
+    /* border: 1px solid; */
+    border-style: none;
+    border-radius: 20px;
+    outline: none;
+}

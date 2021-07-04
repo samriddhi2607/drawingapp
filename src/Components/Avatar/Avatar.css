@@ -1,0 +1,14 @@
+.avatarparent{
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+ 
+}
+
+.avatar{
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,8 @@
+.clickme
+{
+    height: 10vh;
+    width: 20vw;
+    border-style: none;
+    border-radius: 20px;
+    font-size: 2rem;
+}
