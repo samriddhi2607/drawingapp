@@ -1,8 +1,21 @@
 .select-me
 {
-    height: 25vh;
+    height: 22vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
 }
 .avatar-box
 {
+  height: 80%;
+}
+.arrow
+{
+    height: 25%;
+    font-size: 4rem;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    cursor:pointer;
 
 }
