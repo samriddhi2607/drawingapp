@@ -11,7 +11,7 @@ class PlayPage extends Component {
     render() { 
         return ( <div className="playpage">
                  <PlayerBox></PlayerBox>
-               <CanvasBox></CanvasBox>
+                 <CanvasBox></CanvasBox>
                 <ChatBox></ChatBox>
                 </div>
              );

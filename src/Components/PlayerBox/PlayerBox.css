@@ -1,11 +1,12 @@
 .playerbox
 {
     height: 90vh;
-    width: 25vw;
+    width: 15vw;
     background: purple;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 15px;
+    margin-top: 15px;
+    margin-left: 10px;
 }
